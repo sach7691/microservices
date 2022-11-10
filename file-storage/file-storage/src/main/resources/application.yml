@@ -1,0 +1,20 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAZRGRMHCI7AS6XGQM
+      secret-key: 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
+    region:
+      static: eu-west-2
+    stack:
+      auto: false
+
+application:
+  bucket:
+      name: myspringawsbucket
+
+
+spring: <1 key>
+
+server:
+  port: 8083
+
