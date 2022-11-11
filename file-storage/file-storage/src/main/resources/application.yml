@@ -1,16 +1,16 @@
 cloud:
   aws:
     credentials:
-      access-key: AKIAZRGRMHCI7AS6XGQM
-      secret-key: 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
+      access-key: 
+      secret-key: 
     region:
-      static: eu-west-2
+      static: 
     stack:
       auto: false
 
 application:
   bucket:
-      name: myspringawsbucket
+      name: 
 
 
 spring: <1 key>
